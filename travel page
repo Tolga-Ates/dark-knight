@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+        h1 {
+            color: red;
+        }
+        h2 {
+            color: blue;
+            background-color: yellow;
+        }
+        p {background-color: rgb(183, 199, 94);}
+        #historic {
+            background-color: pink;
+        }
+        .warm {
+            background-color: rgb(255, 13, 49); }
+        .cold {
+            background-color: rgb(31, 180, 255);
+        }
+    </style>
+    <body>
+    
+        <h1>Travel to Antalya</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Antalya_Saat_Kulesi.JPG" width="450">
+        <h2>Introduction of Antalya</h2>
+        <p>
+        Antalya (Turkish pronunciation: [anˈtalja]) is the eighth-most populous city in Turkey and the capital of Antalya Province. Located on Anatolia's southwest coast bordered by the Taurus Mountains, Antalya is the largest Turkish city on the Mediterranean coast with over one million people in its metropolitan area.
+The city that is now Antalya was first settled around 200 BC by the Attalid dynasty of Pergamon, which was soon subdued by the Romans. Roman rule saw Antalya thrive, including the construction of several new monuments, such as Hadrian's Gate, and the proliferation of neighboring cities. The city has changed hands several times, including to the Seljuk Sultanate in 1207 and an expanding Ottoman Empire in 1391. Ottoman rule brought relative peace and stability for the next five hundred years. The city was transferred to Italian suzerainty in the aftermath of World War I, but was recaptured by a newly independent Turkey in the War of Independence.
+<p>
+<h2>Things to See:</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Antalya_city.jpg/250px-Antalya_city.jpg" width="400">
+<h2>Historic sites in the city center to Visit:</h2>
+<ol>
+<li id="historic">
+<strong>Ancient monuments:</strong> include the City Walls, Hıdırlık Tower, Hadrian's Gate (also known as Triple Gate), and the Clock Tower.</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/H%C4%B1d%C4%B1rl%C4%B1k_Tower_01.jpg" width="400">
+<li id="historic"><strong>Hadrian's Gate:</strong> constructed in the 2nd century by the Romans in honor of the Emperor Hadrian.</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Hadrian_Kap%C4%B1s%C4%B1_%284%29.JPG" width="400">
+
+<li id="historic"><strong>İskele Mosque:</strong> A 19th-century Mosque near the marina.</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/%C4%B0skele_Camii.JPG" width="400">
+<li id="historic"><strong>Karatay Medrese:</strong> A Medrese (Islamic theological seminary) built in 1250 by Emir Celaleddin Karatay.
+</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Antalya_Karatay_Medrese_5763.jpg" width="400">
+<li id="historic"><strong>Kesik Minare (Broken Minaret) Mosque:</strong> Once a Roman temple then converted to a Byzantine Panayia church and finally into a mosque.
+</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Antalya_-_Kesik_Minare_-_Temple.jpg/220px-Antalya_-_Kesik_Minare_-_Temple.jpg" width="300">
+<li id="historic"><strong>Tekeli Mehmet Paşa Mosque:</strong> An 18th-century Mosque built in honor of Tekeli Mehmet Paşa.
+</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tekeli_Mehmet_Pa%C5%9Fa_Mosque_01.jpg/1200px-Tekeli_Mehmet_Pa%C5%9Fa_Mosque_01.jpg" width="400">
+<li id="historic"><strong>Yat Limanı:</strong> the harbour dating to Roman era.
+</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Antalya_marina.jpg" width="400">
+<li id="historic"><strong>Yivli Minare (Fluted Minaret) Mosque:</strong> Built by the Seljuks and decorated with dark blue and turquoise tiles. This minaret eventually became the symbol of the city.
+</li>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Yivli_Minaret_Mosque_Antalya.jpg" width="400">
+</ol>
+
+<h2>Museums to Visit:</h2>
+<ul>
+    <li class="warm">Antalya Museum,
+    <li class="cold">Kaleiçi Museum: Opened in 2007 by the Mediterranean Civilizations Research Center (Akdeniz Medeniyetleri Araştırma Merkezi)
+<li class="warm">Atatürk's House Museum,
+<li class="cold">Antalya Toy Museum: The Antalya Metropolitan Municipality opened the exhibition facility in 2011.
+<li class="warm">Suna & İnan Kıraç Kaleiçi Museum : An ethnographic museum run by the Suna and İnan Kıraç Foundation.
+</ul>
+    </body>
+</html>
